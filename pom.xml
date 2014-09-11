@@ -40,9 +40,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/ianwalter/ng-context-menu</url>
-        <connection>scm:git:https://github.com/ianwalter/ng-context-menu.git</connection>
-        <developerConnection>scm:git:https://github.com/ianwalter/ng-context-menu.git</developerConnection>
+        <url>https://github.com/webjars/ng-context-menu</url>
+        <connection>scm:git:https://github.com/webjars/ng-context-menu.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/ng-context-menu.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
     
